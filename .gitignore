@@ -1,0 +1,12 @@
+.bash*
+.cache
+.graphlab
+.ipynb_checkpoints
+.ipython
+.jupyter
+.local
+.pip
+.profile
+.ssh
+.viminfo
+.w3m
