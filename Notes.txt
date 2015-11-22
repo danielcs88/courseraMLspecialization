@@ -1,0 +1,12 @@
+Zipped versions of the data sets used are available through the Coursera course
+	'Machine Learning Foundations: A Case Study Approach' 
+See the 'Course Content' section.
+Weeks 2 through 6 have a 'Programming assignment' subsection.
+See the further subsection 'Reading: ...'
+
+example of download link retrieval
+    Course Content
+        --> Week 1
+            --> Programming assignment
+                --> Reading: Predicting house prices assignment
+                    --> DOWNLOAD LINKS FOUND HERE
