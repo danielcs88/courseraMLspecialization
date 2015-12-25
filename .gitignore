@@ -12,3 +12,7 @@
 .viminfo
 .w3m
 *.zip
+coursera-notebooks/
+image_test_data/
+image_train_data/
+
